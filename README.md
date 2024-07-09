@@ -1,0 +1,1 @@
+Welcome to my 3rd [freeCodeCamp](https://www.freecodecamp.org/) Responsive Web Design Certification Project, a technical documentation page.
